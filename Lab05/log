@@ -1,0 +1,48 @@
+/home/ichariti/Lab05
+log
+  File: new_folder
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 410292      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1313/ichariti)   Gid: ( 1315/ichariti)
+Access: 2024-12-19 12:20:42.570663274 +0200
+Modify: 2024-12-19 12:20:42.570663274 +0200
+Change: 2024-12-19 12:20:42.570663274 +0200
+ Birth: -
+./newname.txt
+./destination.txt
+hello people
+
+hello people
+
+hello people
+
+hello people
+
+Reinitialized existing Git repository in /home/ichariti/Lab05/.git/
+Cloning into 'OS'...
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	OS/
+	destination.txt
+	example1
+	example1.c
+	example2
+	example2.c
+	example3
+	example3.c
+	example4
+	example4.c
+	example5
+	example5.c
+	example6
+	example6.c
+	log
+	newname.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+rm: cannot remove 'example2': No such file or directory
+rm: cannot remove 'example3': No such file or directory
